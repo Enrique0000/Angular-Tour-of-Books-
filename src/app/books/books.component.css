@@ -1,0 +1,48 @@
+.book-id{
+    margin-bottom: 4px;
+    margin-left: 1cm;
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
+
+.book-name{ 
+    display: flex;
+    }
+
+label{
+    margin-left: 1cm;
+    margin-top: 7px;
+}
+
+#name{
+    margin-left: 9px;
+    border: 1px solid black;
+    height: 30px;
+    width: 200px;
+    text-align: center;
+}
+
+.bookname{
+    background-color: rgb(32, 100, 100);
+    color: whitesmoke;
+    width: 400px;
+    
+    border-radius: 1%;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+.my-books{
+    margin-left: 34px;
+}
+
+.m-books{
+    border: 2px solid black;
+    width: 350px;
+    margin-top: 5px;
+    text-align: center;
+}
